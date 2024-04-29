@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MisherLiu
+- 👋 Hi, I’m @Zhiping Liu
 - 👀 I’m interested in Frontend development and baby caring
 - 🌱 I’m currently learning JavaScript and being a good mother
 - 💞️ I’m looking to collaborate on JS development
